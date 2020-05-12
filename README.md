@@ -1,16 +1,49 @@
-# worldtime
+# Flutter Begginners Tutorial
+The Net Ninja YouTube Tutorial
 
-A new Flutter application.
+## Studied Content
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter
+- Intro
+- Setup
+- Flutter Overview
+- Dart Primer
+- Creating a Flutter App in Android Studio
+- Scaffold Widget
+- AppBar Widget
+- Colors
+- Fonts
+- Stateless Widgets
+- Hot Reload
+- Images & Assets
+- Buttons
+- Icons
+- Containers
+- Padding
+- Rows
+- Columns
+- Flutter Outline
+- Shortcuts
+- Expanded Widgets
+- Ninja ID Project
+- Stateful Widgets
+- Lists of Data
+- Custom Classes
+- Cards
+- Extracting Widgets
+- Functions as Parameters
+- Starting the World Time App
+- Maps
+- Routing
+- Widget Lifecycle
+- Asynchronous Code
+- Flutter Packages (http)
+- World Time API
+- WorldTime Custom Class
+- Error Handling
+- Passing Route Data
+- Formatting & Showing Dates
+- Loaders / Spinners
+- Ternary Operators
+- List View Builder
+- Updating the Time
